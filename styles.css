@@ -1,0 +1,50 @@
+
+      body { 
+            background-image:url(https://img.freepik.com/free-photo/white-cloud-blue-sky_74190-7709.jpg?w=996&t=st=1705024255~exp=1705024855~hmac=6a7fc96aea7bd35adbc6fb3a54c94ee297febe07a101998a7f0cc7cda3f6ee88);
+            background-repeat: no-repeat;
+            background-size: 1500px;
+            font-family: Rubik Scribble;
+            color: #3b3b3b;
+               }
+       
+        .header {
+               color: 7a7468;
+               background-image: url(https://www.licenseplates.tv/images/header_philippines.jpg);
+               padding: 3px;
+               margin: 20px;
+               border: 2px solid black;
+               text-align: center;
+            } 
+
+      img {
+         height: 250px;
+         length: 300px;
+      }
+      section {
+         column-gap: 10px;
+            display: flex;
+            justify-content: center;
+            row-gap: 5px;
+            column-gap: 10px;
+            padding:5px;
+            text-align: center;
+            flex-wrap: wrap;
+      }
+
+         .box { 
+            border: 3px black;
+               background-color: whitesmoke;
+               margin: 15px;
+               padding:10px;
+               length: 300px;
+               width: 250px;
+               display: inline-block;
+          } 
+
+          h1 {
+            color: black;
+          }
+
+          .footer {
+            background-color: #ada49a;
+          }
